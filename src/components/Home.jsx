@@ -42,7 +42,7 @@ export const Home = () => {
                   <td>{d.phone}</td>
                   <td>
                     <Link to={`/read/${d.id}`} className='btn btn-sm btn-info me-2'>Read</Link>
-                    <Link className='btn btn-sm btn-primary me-2'>Edit</Link>
+                    <Link to={`/update/${d.id}`} className='btn btn-sm btn-primary me-2'>Edit</Link>
                     <Link className='btn btn-sm btn-danger'>Delete</Link>
                   </td>
                   
