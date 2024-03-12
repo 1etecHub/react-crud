@@ -6,6 +6,7 @@ import { Create } from './components/Create';
 import { Update } from './components/Update';
 import { Delete } from './components/Delete';
 import { Read } from './components/Read';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 export const App = () => {
   return (
