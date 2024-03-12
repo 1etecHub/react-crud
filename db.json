@@ -9,12 +9,6 @@
       "website": "https://github.com/1etechub"
     },
     {
-      "id": "2",
-      "name": "Engineer Zara",
-      "email": "zara@mail.com",
-      "phone": "123445667"
-    },
-    {
       "id": "3",
       "name": "Adaora",
       "email": "adaora@mail.com",
@@ -59,22 +53,6 @@
       "website": "https://github.com/1etechub"
     },
     {
-      "id": "9",
-      "name": "Joy Okoduwa",
-      "username": "zara",
-      "email": "Ebenezer Irene",
-      "phone": "Ebenezer Irene",
-      "website": "https://github.com/1etechub"
-    },
-    {
-      "id": "10",
-      "name": "Joy Okoduwa",
-      "username": "zara",
-      "email": "Ebenezer Irene",
-      "phone": "Ebenezer Irene",
-      "website": "https://github.com/1etechub"
-    },
-    {
       "id": "11",
       "name": "Joy Okoduwa",
       "username": "zara",
@@ -89,16 +67,10 @@
       "phone": "433665465464"
     },
     {
-      "id": "af3d",
-      "name": "567986498428",
-      "email": "me@mail.com",
-      "phone": ""
-    },
-    {
-      "id": "19e3",
-      "name": "you",
-      "email": "you@mail.com",
-      "phone": "123445566"
+      "id": "d654",
+      "name": "maurice",
+      "email": "maurice@mail.com",
+      "phone": "124455654657"
     }
   ]
 }
